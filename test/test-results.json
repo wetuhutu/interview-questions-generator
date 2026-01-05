@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-01-05T08:15:56.401Z",
+  "jobDetails": {
+    "title": "高级前端开发工程师",
+    "company": "某知名互联网公司"
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "请描述一下你在使用React进行前端开发时遇到的一个复杂问题以及你是如何解决它的。",
+      "category": "technical"
+    },
+    {
+      "id": "q2",
+      "text": "在参与架构设计和技术选型的过程中，你可以分享一个具体的案例吗？",
+      "category": "position-related"
+    },
+    {
+      "id": "q3",
+      "text": "你在使用TypeScript时遇到了哪些挑战？是如何克服这些挑战的？",
+      "category": "technical"
+    },
+    {
+      "id": "q4",
+      "text": "能否举例说明你在带领团队完成项目过程中是如何协调不同成员之间的工作的？",
+      "category": "behavioral"
+    },
+    {
+      "id": "q5",
+      "text": "请解释一下你如何利用Next.js来提高前端应用的性能和用户体验。",
+      "category": "technical"
+    },
+    {
+      "id": "q6",
+      "text": "你在与后端团队协作完成API集成时，遇到了哪些沟通上的挑战？你是如何处理这些问题的？",
+      "category": "behavioral"
+    },
+    {
+      "id": "q7",
+      "text": "在优化前端性能方面，你有哪些具体的方法和策略？请详细阐述。",
+      "category": "position-related"
+    },
+    {
+      "id": "q8",
+      "text": "你在大型项目开发中的角色是什么？可以分享一个你参与过的大型项目的成功案例吗？",
+      "category": "position-related"
+    }
+  ],
+  "totalQuestions": 8
+}
